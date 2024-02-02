@@ -8,7 +8,7 @@
 
 |Metodo|Url|Descrição|
 |:---:|:---|:---|
-|https://img.shields.io/badge/POST-00b200|`/users`|Cria um novo usuário|
+|(https://img.shields.io/badge/POST-00b200)|`/users`|Cria um novo usuário|
 |https://img.shields.io/badge/GET-2034c7|`/users/:id`|Busca um usuário pelo seu ID|
 |https://img.shields.io/badge/GET-2034c7|`/users`|Busca todos os usuários|
 |https://img.shields.io/badge/PUT-e28210|`/users/:id`|Edita um usuario pelo ID|
